@@ -1,0 +1,14 @@
+F:\DSA\Linked List\C#\LinkedListUsingArray\bin\Debug\net6.0\LinkedListUsingArray.exe
+F:\DSA\Linked List\C#\LinkedListUsingArray\bin\Debug\net6.0\LinkedListUsingArray.deps.json
+F:\DSA\Linked List\C#\LinkedListUsingArray\bin\Debug\net6.0\LinkedListUsingArray.runtimeconfig.json
+F:\DSA\Linked List\C#\LinkedListUsingArray\bin\Debug\net6.0\LinkedListUsingArray.dll
+F:\DSA\Linked List\C#\LinkedListUsingArray\bin\Debug\net6.0\LinkedListUsingArray.pdb
+F:\DSA\Linked List\C#\LinkedListUsingArray\obj\Debug\net6.0\LinkedListUsingArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\DSA\Linked List\C#\LinkedListUsingArray\obj\Debug\net6.0\LinkedListUsingArray.AssemblyInfoInputs.cache
+F:\DSA\Linked List\C#\LinkedListUsingArray\obj\Debug\net6.0\LinkedListUsingArray.AssemblyInfo.cs
+F:\DSA\Linked List\C#\LinkedListUsingArray\obj\Debug\net6.0\LinkedListUsingArray.csproj.CoreCompileInputs.cache
+F:\DSA\Linked List\C#\LinkedListUsingArray\obj\Debug\net6.0\LinkedListUsingArray.dll
+F:\DSA\Linked List\C#\LinkedListUsingArray\obj\Debug\net6.0\refint\LinkedListUsingArray.dll
+F:\DSA\Linked List\C#\LinkedListUsingArray\obj\Debug\net6.0\LinkedListUsingArray.pdb
+F:\DSA\Linked List\C#\LinkedListUsingArray\obj\Debug\net6.0\LinkedListUsingArray.genruntimeconfig.cache
+F:\DSA\Linked List\C#\LinkedListUsingArray\obj\Debug\net6.0\ref\LinkedListUsingArray.dll
