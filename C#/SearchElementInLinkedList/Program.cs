@@ -71,6 +71,6 @@ class Program
         //Call CreateLinked List method
         Node head = createLinkedList(a,6);
 
-        Console.WriteLine("Index: " + searchLinkedList(head, 160));
+        Console.WriteLine("Index: " + searchLinkedList(head, 60));
     }
 }
